@@ -22,7 +22,7 @@ After that, the user will be able to filter by day of the week or by month, and 
 ### Files used
 Files:
  - **bikeshare.py**: The python program
- - **data**: Directory that contains the cvs files with the data.
+ - **CSV files**: Csv files with the raw data.
  - **README**: File that contains the description of the functionality of the program and the contents of the files.
 
 ### Credits
