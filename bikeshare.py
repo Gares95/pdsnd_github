@@ -24,7 +24,7 @@ def get_filters_city():
     print("* write '1' for January and '6' for June, and for weekdays '1' for Monday and '7' for Sunday.              *")
     print('*'*108, "\n")
     
-    print('Welcome! Here you can explore some US bikeshare data!')
+    print('Welcome! Use this program to obtain some relevant information about the US bikeshare system')
     # Get user input for city (chicago, new york city, washington). 
     
     city = input("Enter the name of the city you want to see: ")
