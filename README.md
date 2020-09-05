@@ -14,6 +14,11 @@ After that, the user will be able to filter by day of the week or by month, and 
  - Data about the trip duration.
  - Data about the users.
 
+ Library that the program uses:
+ - time
+ - pandas
+ - numpy
+
 ### Files used
 Files:
  - **bikeshare.py**: The python program
